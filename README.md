@@ -1,16 +1,30 @@
-# my_note
+# 📝 My Note App
 
-A new Flutter project.
+A simple yet powerful **note-taking Flutter application** with support for creating, editing, deleting, searching, and favoriting notes.  
+The app also includes **light/dark mode** support and stores data locally using **SQLite**.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ✏️ Create, edit, and delete notes  
+- ⭐ Mark notes as favorite  
+- 🔍 Search notes by title  
+- 🌙 Light & Dark theme switch  
+- 💾 Local storage with SQLite  
+- 📱 Responsive UI for different devices
 
-A few resources to get you started if this is your first Flutter project:
+# 📸 App Preview
+Here’s a quick look at My Note App:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="563" height="459" alt="Group 3" src="https://github.com/user-attachments/assets/a1fceb79-62af-4703-b074-9f07182cb497" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🚀 Getting Started
+Before running this project, make sure you have the following installed:
+**Java 17 (LTS)**
+
+git clone https://github.com/Rawan-TarekSobhy/my-note-app.git
+
+cd my-note-app
+
+flutter pub get
+
+flutter run
