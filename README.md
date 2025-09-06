@@ -23,7 +23,7 @@ Before running this project, make sure you have the following installed:
 
 git clone https://github.com/Rawan-TarekSobhy/my-note-app.git
 
-cd my-note-app
+cd my-note-mobile-app
 
 flutter pub get
 
